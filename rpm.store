@@ -1,1 +1,1 @@
-{"base": "611a1d1", "parent": "rpm/rolling/robot_state_publisher", "previous": "a3e030d", "trim": "", "trimbase": ""}
+{"trim": "", "base": "a41e4ff", "trimbase": "", "parent": "rpm/rolling/robot_state_publisher", "previous": "331bec6"}
